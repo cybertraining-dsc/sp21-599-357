@@ -1,5 +1,7 @@
 :o2: titel section missing
 
+:o2: pdf not needed
+
 An Interesting transition driven by AI
 
 Jiayu Li February 25, 2021
