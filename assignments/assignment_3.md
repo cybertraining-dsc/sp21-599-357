@@ -2,7 +2,7 @@
 
 :o2: pdf not needed
 
-:o2; assignment 5 is not in md
+:o2: assignment 5 is not in md
 
 An Interesting transition driven by AI
 
