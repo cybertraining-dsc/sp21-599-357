@@ -11,11 +11,13 @@ Build on homework 5 and make a plan that defines your final project. This plan s
 
 
 ## 1. Structural Protein Sequences Classification
-Determine a protein's family type based on sequence.
+In the protein structure data set, each protein is classified according to its function. Categories include: HYDROLASE, OXYGEN TRANSPORT, VIRUS, SIGNALING PROTEIN, etc. dozens of kinds. In this project, we will use nucleic acid sequences to predict the type of protein.
 
 ## 2. Dataset
 Structural Protein Sequences Dataset: https://www.kaggle.com/shahir/protein-data-set/code
+
 Protein dataset classification: https://www.kaggle.com/rafay12/anti-freeze-protein-classification
+
 RCSB PDB: https://www.rcsb.org/
 
 ## 3. Deep learning algorithm
