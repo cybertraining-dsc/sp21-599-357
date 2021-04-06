@@ -1,4 +1,4 @@
-# Project: THis is the Descriptive Title of the Example
+# Project: Structural Protein Sequences Classification
 
 [![Check Report](https://github.com/cybertraining-dsc/sp21-599-357/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/sp21-599-357/actions)
 [![Status](https://github.com/cybertraining-dsc/sp21-599-357/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/sp21-599-357/actions)
@@ -16,9 +16,9 @@ Gregor von Laszewski, [sp21-599-357](https://github.com/cybertraining-dsc/sp21-5
 
 ## Abstract
 
-Her comes a short abstract of the project that summarizes what it is about
+In the protein structure data set, each protein is classified according to its function. Categories include: HYDROLASE, OXYGEN TRANSPORT, VIRUS, SIGNALING PROTEIN, etc. dozens of kinds. In this project, we will use nucleic acid sequences to predict the type of protein.
 
-Contents
+
 
 {{< table_of_contents >}}
 
