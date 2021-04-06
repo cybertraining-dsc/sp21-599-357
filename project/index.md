@@ -33,7 +33,23 @@ Please not ethat an up to date version of these instructions is available at
 * <https://github.com/cybertraining-dsc/hid-example/blob/main/project/index.md>
 
 Here comes a convincing introduction to the problem
+## 2. Dataset
+Structural Protein Sequences Dataset: https://www.kaggle.com/shahir/protein-data-set/code
 
+Protein dataset classification: https://www.kaggle.com/rafay12/anti-freeze-protein-classification
+
+RCSB PDB: https://www.rcsb.org/
+
+## 3. Deep learning algorithm
+Possible candidate algorithms include LSTM, CNN, SVM, etc. In actual problems, it may be necessary to combine multiple algorithms to achieve higher accuracy.
+
+
+## 4. Timeline
+* Week 1: Collect data, understand the data.
+* Week 2: Data preprocessing, data visualization.
+* Week 3: Find related works and test existing algorithms.
+* Week 4: Protein structure prediction or classification based on existing work.
+* Week 5: Continue the previous experiment. Complete project report
 ## 2. Report Format
 
 The report is written in (hugo) markdown and not commonmark. As such some features are not visible in GitHub. You can 
