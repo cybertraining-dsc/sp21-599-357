@@ -2,7 +2,7 @@
 
 [![Check Report](https://github.com/cybertraining-dsc/sp21-599-357/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/sp21-599-357/actions)
 [![Status](https://github.com/cybertraining-dsc/sp21-599-357/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/sp21-599-357/actions)
-Status: final, Type: Project
+Status: in progress, Type: Project
 
 * :o2: Author missing
 * :o2: Introduction missing
