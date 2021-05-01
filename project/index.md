@@ -86,7 +86,7 @@ Two popular examples of methods of learning word embeddings from text include:
 |Model        | CNN         | LSTM        |
 |-----------  | ----------- | ----------- |
 |#parameters  | 273,082     |203,226      |
-| Accuracy    | 91%         |90%          |
+| Accuracy    | 91.6%       |90.1%        |
 |Training time|7ms/step     |58ms/step    |
 
  
