@@ -83,7 +83,12 @@ Two popular examples of methods of learning word embeddings from text include:
 
 ## 4. Benchmark
 
-Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
+|Model        | CNN         | LSTM        |
+|-----------  | ----------- | ----------- |
+|#parameters  | 273,082     |203,226      |
+| Accuracy    | 91%         |90%          |
+|Training time|7ms/step     |58ms/step    |
+
  
 ## 5. Conclusion
 
