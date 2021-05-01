@@ -127,3 +127,5 @@ The author would like to thank Dr. Gregor von Laszewski for his invaluable feedb
 [^6]: Wang, Jason TL, et al. "Application of neural networks to biological data mining: a case study in protein sequence classification." Proceedings of the sixth ACM SIGKDD international conference on knowledge discovery and data mining. 2000.
 
 [^7]: AlQuraishi, Mohammed. "AlphaFold at CASP13." Bioinformatics 35.22 (2019): 4862-4865.
+
+[^8]: Kaggle, Protein Sequence Classification. <https://www.kaggle.com/helmehelmuto/cnn-keras-and-innvestigate>
