@@ -56,8 +56,12 @@ RCSB PDB: <https://www.rcsb.org/>
 
 ![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/sp21-599-357/main/project/images/fig1.png)
 
-**Figure 1:** The statistical information of the data set counts the frequency of appearance of different labels and the length distribution of amino acid sequences.
+**Figure 1:** The frequency of appearance of different labels.
 
+
+![Figure 2](https://raw.githubusercontent.com/cybertraining-dsc/sp21-599-357/main/project/images/fig2.png)
+
+**Figure 2:** The length distribution of amino acid sequences.
 
 ## 3. Deep learning algorithm
 
