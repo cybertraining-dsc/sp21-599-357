@@ -65,7 +65,7 @@ A convincing but not fake conclusion should summarize what the conclusion of the
 
 ## 6. Acknowledgments
 
-Please add acknowledgments to all that contributed or helped on this project.  
+The author would like to thank Dr. Gregor von Laszewski for his invaluable feedback on this paper, and Dr. Geoffrey Fox for sharing his expertise in Big Data applications throughout this course.
 
 ## 7. References
 
