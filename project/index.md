@@ -41,7 +41,7 @@ In the past few decades, the number of PDB structures has grown at an exponentia
 
 Structural biologists around the world use methods such as X-ray crystallography, NMR spectroscopy, and cryo-electron microscopy to determine the position of each atom relative to each other in the molecule. Then they will submit this structural information, wwPDB will annotate it and publish it to the database publicly.
 
-You can search for ribosomes, oncogenes, drug targets, and even the structure of the entire virus in the PDB data set. However, the number of structures archived in the PDB is huge, and finding the information you need may be a difficult task.
+PDB supports searching for ribosomes, oncogenes, drug targets, and even the structure of the entire virus. However, the number of structures archived in the PDB is huge, and finding the information may be a difficult task.
 
 The information in the PDB data set mainly includes: protein/nucleic acid source, protein/nucleic acid molecule composition, atomic coordinates, experimental methods used to determine the structure.
 Structural Protein Sequences Dataset: https://www.kaggle.com/shahir/protein-data-set/code
