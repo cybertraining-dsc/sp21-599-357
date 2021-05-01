@@ -44,20 +44,23 @@ Structural biologists around the world use methods such as X-ray crystallography
 PDB supports searching for ribosomes, oncogenes, drug targets, and even the structure of the entire virus. However, the number of structures archived in the PDB is huge, and finding the information may be a difficult task.
 
 The information in the PDB data set mainly includes: protein/nucleic acid source, protein/nucleic acid molecule composition, atomic coordinates, experimental methods used to determine the structure.
-Structural Protein Sequences Dataset: https://www.kaggle.com/shahir/protein-data-set/code
+Structural Protein Sequences Dataset: <https://www.kaggle.com/shahir/protein-data-set/code>
 
-Protein dataset classification: https://www.kaggle.com/rafay12/anti-freeze-protein-classification
+Protein dataset classification: <https://www.kaggle.com/rafay12/anti-freeze-protein-classification>
 
-RCSB PDB: https://www.rcsb.org/
+RCSB PDB: <https://www.rcsb.org/>
 
-![Figure 1](https://github.com/cybertraining-dsc/sp21-599-357/blob/main/project/images/fig1.png)
+![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/sp21-599-357/main/project/images/fig1.png)
 
 **Figure 1:** The statistical information of the data set counts the frequency of appearance of different labels and the length distribution of amino acid sequences.
 
 
 ## 3. Deep learning algorithm
+
 Possible candidate algorithms include LSTM[^3], CNN, SVM, etc. In actual problems, it may be necessary to combine multiple algorithms to achieve higher accuracy.
+
 ### 3.1 Word Embedding
+
 A word embedding is a class of approaches for representing words and documents using a dense vector representation.
 
 Iin an embedding, words are represented by dense vectors where a vector represents the projection of the word into a continuous vector space.
