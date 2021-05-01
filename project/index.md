@@ -5,9 +5,7 @@
 Status: in progress, Type: Project
 
 
-* :o2: Introduction missing
 
-* :o2: Abstract should be defined by now
 * :o2: Refernces shoudl be defined by now
 
 Jiayu Li, [sp21-599-357](https://github.com/cybertraining-dsc/sp21-599-357/), [Edit](https://github.com/cybertraining-dsc/sp21-599-357/blob/main/project/index.md)
