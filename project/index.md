@@ -51,37 +51,21 @@ RCSB PDB: https://www.rcsb.org/
 Possible candidate algorithms include LSTM, CNN, SVM, etc. In actual problems, it may be necessary to combine multiple algorithms to achieve higher accuracy.
 
 
-## 4. Timeline
-* Week 1: Collect data, understand the data.
-* Week 2: Data preprocessing, data visualization.
-* Week 3: Find related works and test existing algorithms.
-* Week 4: Protein structure prediction or classification based on existing work.
-* Week 5: Continue the previous experiment. Complete project report
+  
 
-
-   
-## 5. Datasets
-
-
-
-
-## 6. Benchmark
+## 4. Benchmark
 
 Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
  
-## 6. Conclusion
+## 5. Conclusion
 
 A convincing but not fake conclusion should summarize what the conclusion of the project is.
 
-## 8. Acknowledgments
+## 6. Acknowledgments
 
 Please add acknowledgments to all that contributed or helped on this project.  
 
-## 9. References
-
-Your report must include at least 6 references. Please use customary academic citation and not just URLs. As we will at 
-one point automatically change the references from superscript to square brackets it is best to introduce a space before 
-the first square bracket.
+## 7. References
 
 [^1]: Use of energy explained - Energy use in homes, [Online resource] 
       <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
