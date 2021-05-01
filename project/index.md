@@ -57,8 +57,8 @@ RCSB PDB: https://www.rcsb.org/
 
 ## 3. Deep learning algorithm
 Possible candidate algorithms include LSTM[^3], CNN, SVM, etc. In actual problems, it may be necessary to combine multiple algorithms to achieve higher accuracy.
-
-
+### 3.1 Word Embedding
+### 3.2 CNN
   
 
 ## 4. Benchmark
