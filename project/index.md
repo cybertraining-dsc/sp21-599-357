@@ -11,11 +11,14 @@ Jiayu Li, [sp21-599-357](https://github.com/cybertraining-dsc/sp21-599-357/), [E
 
 ## Abstract
 
-The goal of this project is to classify protein families based on their sequence of aminoacids. 
+The goal of this project is to predict the family of a protein based on the amino acid sequence of the protein. 
+The structure and function of a protein are determined by the amino acid sequence that composes it.
 In the protein structure data set, each protein is classified according to its function. Categories include: HYDROLASE, OXYGEN TRANSPORT, VIRUS, SIGNALING PROTEIN, etc. dozens of kinds. In this project, we will use nucleic acid sequences to predict the type of protein.
 
+Although there are already protein search engines such as BLAST[^1] that can directly query the known protein families. But for unknown proteins, it is still important to use deep learning algorithms to predict their functions.
 
-Related research includes BLAST[^1], which is a protein search engine.
+Protein classification is a simpler problem than protein structure prediction[^7]. The latter requires the complete spatial structure of the protein, and the required deep learning model is extremely complex.
+
 
 **Keywords:** Protein Sequences, Deep learning
 
@@ -79,3 +82,5 @@ The author would like to thank Dr. Gregor von Laszewski for his invaluable feedb
 [^5]: Cao, Jiuwen, and Lianglin Xiong. "Protein sequence classification with improved extreme learning machine algorithms." BioMed research international 2014 (2014).
 
 [^6]: Wang, Jason TL, et al. "Application of neural networks to biological data mining: a case study in protein sequence classification." Proceedings of the sixth ACM SIGKDD international conference on knowledge discovery and data mining. 2000.
+
+[^7]: AlQuraishi, Mohammed. "AlphaFold at CASP13." Bioinformatics 35.22 (2019): 4862-4865.
