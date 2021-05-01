@@ -92,6 +92,8 @@ Two popular examples of methods of learning word embeddings from text include:
 
 ## 4. Benchmark
 
+[^8] is a highly accurate model on the Kaggle website. It uses CNN as the model. This project will use it as a comparison benchmark, use LSTM to train the same data set, and compare the two models.
+
 |Model        | CNN         | LSTM        |
 |-----------  | ----------- | ----------- |
 |#parameters  | 273,082     |203,226      |
