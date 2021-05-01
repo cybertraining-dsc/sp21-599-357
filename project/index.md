@@ -84,6 +84,11 @@ Two popular examples of methods of learning word embeddings from text include:
 
 ### 3.2 CNN
 
+### 3.3 LSTM
+
+![Figure 3](https://raw.githubusercontent.com/cybertraining-dsc/sp21-599-357/main/project/images/fig3.png)
+
+**Figure 3:** LSTM.
 
 ## 4. Benchmark
 
