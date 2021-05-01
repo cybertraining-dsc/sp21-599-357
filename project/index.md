@@ -50,6 +50,11 @@ Protein dataset classification: https://www.kaggle.com/rafay12/anti-freeze-prote
 
 RCSB PDB: https://www.rcsb.org/
 
+![Figure 1](https://github.com/cybertraining-dsc/sp21-599-357/blob/main/project/images/fig1.png)
+
+**Figure 1:** The statistical information of the data set counts the frequency of appearance of different labels and the length distribution of amino acid sequences.
+
+
 ## 3. Deep learning algorithm
 Possible candidate algorithms include LSTM[^3], CNN, SVM, etc. In actual problems, it may be necessary to combine multiple algorithms to achieve higher accuracy.
 
