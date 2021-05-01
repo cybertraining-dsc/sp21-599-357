@@ -4,10 +4,9 @@
 [![Status](https://github.com/cybertraining-dsc/sp21-599-357/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/sp21-599-357/actions)
 Status: final, Type: Project
 
-
-
 Jiayu Li, [sp21-599-357](https://github.com/cybertraining-dsc/sp21-599-357/), [Edit](https://github.com/cybertraining-dsc/sp21-599-357/blob/main/project/index.md)
 
+{{% pageinfo %}}
 
 ## Abstract
 
@@ -19,6 +18,11 @@ Although there are already protein search engines such as BLAST[^1] that can dir
 
 Protein classification is a simpler problem than protein structure prediction[^7]. The latter requires the complete spatial structure of the protein, and the required deep learning model is extremely complex.
 
+Contents
+
+{{< table_of_contents >}}
+
+{{% /pageinfo %}}
 
 **Keywords:** Protein Sequences, Deep learning
 
@@ -75,7 +79,7 @@ Two popular examples of methods of learning word embeddings from text include:
 - GloVe.
 
 ### 3.2 CNN
-  
+
 
 ## 4. Benchmark
 
