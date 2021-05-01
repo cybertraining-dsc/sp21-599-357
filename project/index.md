@@ -22,7 +22,7 @@ In the protein structure data set, each protein is classified according to its f
 
 Related research includes BLAST, which is a protein search engine.
 
-**Keywords:** tensorflow, example. 
+**Keywords:** Protein Sequences, Deep learning
 
 ## 1. Introduction
 
