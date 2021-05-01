@@ -16,13 +16,11 @@ Jiayu Li, [sp21-599-357](https://github.com/cybertraining-dsc/sp21-599-357/), [E
 
 ## Abstract
 
+The goal of this project is to classify protein families based on their sequence of aminoacids. 
 In the protein structure data set, each protein is classified according to its function. Categories include: HYDROLASE, OXYGEN TRANSPORT, VIRUS, SIGNALING PROTEIN, etc. dozens of kinds. In this project, we will use nucleic acid sequences to predict the type of protein.
 
 
-
-{{< table_of_contents >}}
-
-{{% /pageinfo %}}
+Related research includes BLAST, which is a protein search engine.
 
 **Keywords:** tensorflow, example. 
 
@@ -113,10 +111,15 @@ Remember this is not a powerpoint presentation, but a report so we recommend
    
 ## 5. Datasets
 
-Datasets can be huge and GitHub has limited space. Only very small datasets should be stored in GitHub.
-However, if the data is publicly available you program must contain a download function instead that you customize.
-Write it using pythons `request`. You will get point deductions if you check-in data sets that are large and do not use
-the download function.
+PDB is a data set dedicated to the three-dimensional structure of proteins and nucleic acids. It has a very long history, dating back to 1971. In 2003, PDB developed into an international organization wwPDB. Other members of wwPDB, including PDBe (Europe), RCSB (United States), and PDBj (Japan) also provide PDB with a center for data accumulation, processing and release. Although PDB data is submitted by scientists from all over the world, each piece of data submitted will be reviewed and annotated by wwPDB staff, and whether the data is reasonable or not. The PDB and the software it provides are now free and open to the public.
+In the past few decades, the number of PDB structures has grown at an exponential rate.
+
+Structural biologists around the world use methods such as X-ray crystallography, NMR spectroscopy, and cryo-electron microscopy to determine the position of each atom relative to each other in the molecule. Then they will submit this structural information, wwPDB will annotate it and publish it to the database publicly.
+
+You can search for ribosomes, oncogenes, drug targets, and even the structure of the entire virus in the PDB data set. However, the number of structures archived in the PDB is huge, and finding the information you need may be a difficult task.
+
+The information in the PDB data set mainly includes: protein/nucleic acid source, protein/nucleic acid molecule composition, atomic coordinates, experimental methods used to determine the structure.
+
 
 ## 6. Benchmark
 
