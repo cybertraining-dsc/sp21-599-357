@@ -26,7 +26,6 @@ The structure and function of a protein are determined by the amino acid sequenc
 
 The data sets used in the project come from Research Collaboratory for Structural Bioinformatics (RCSB) and Protein Data Bank (PDB).
 
-The data set contains approximately 400,000 amino acid sequences and has been labeled. The label is the family to which the protein belongs.
 
 The data set contains approximately 400,000 amino acid sequences and has been labeled. The label is the family to which the protein belongs. The protein family includes HYDROLASE, HYDROLASE/HYDROLASE INHIBITOR, IMMUNE SYSTEM, LYASE, OXIDOREDUCTASE, etc. Therefore this problem can be regarded as a classification problem. The input of the model is a sequence, the length of the sequence is uncertain, and the output of the model is one of several categories.
 By comparing DNN, CNN, LSTM and other common models, we have achieved effective prediction of protein energy supply.
