@@ -71,10 +71,15 @@ Please add acknowledgments to all that contributed or helped on this project.
 
 ## 7. References
 
-[^1]: Use of energy explained - Energy use in homes, [Online resource] 
-      <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
+[^1]: Madden, Thomas. "The BLAST sequence analysis tool." The NCBI Handbook [Internet]. 2nd edition. National Center for Biotechnology Information (US), 2013.
 
 
-[^2]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
-      <https://github.com/cloudmesh/cloudmesh-common>
+[^2]: Sussman, Joel L., et al. "Protein Data Bank (PDB): database of three-dimensional structural information of biological macromolecules." Acta Crystallographica Section D: Biological Crystallography 54.6 (1998): 1078-1084.
 
+[^3]: Sundermeyer, Martin, Ralf Schlüter, and Hermann Ney. "LSTM neural networks for language modeling." Thirteenth annual conference of the international speech communication association. 2012.
+
+[^4]: Wang, Dianhui, and Guang-Bin Huang. "Protein sequence classification using extreme learning machine." Proceedings. 2005 IEEE International Joint Conference on Neural Networks, 2005.. Vol. 3. IEEE, 2005.
+
+[^5]: Cao, Jiuwen, and Lianglin Xiong. "Protein sequence classification with improved extreme learning machine algorithms." BioMed research international 2014 (2014).
+
+[^6]: Wang, Jason TL, et al. "Application of neural networks to biological data mining: a case study in protein sequence classification." Proceedings of the sixth ACM SIGKDD international conference on knowledge discovery and data mining. 2000.
