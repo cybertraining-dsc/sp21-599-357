@@ -67,11 +67,13 @@ Your project must include a benchmark. The easiest is to use cloudmesh-common [^
  
 ## 5. Conclusion
 
-A convincing but not fake conclusion should summarize what the conclusion of the project is.
+The deep learning model gives a prediction accuracy of more than 90% for the 10 most common protein types. If the number of label is increased to 40, the accuracy rate will drop to 80%.
+The traditional machine learning model is difficult to deal with string data of different lengths.
 
 ## 6. Acknowledgments
 
 The author would like to thank Dr. Gregor von Laszewski for his invaluable feedback on this paper, and Dr. Geoffrey Fox for sharing his expertise in Big Data applications throughout this course.
+
 
 ## 7. References
 
