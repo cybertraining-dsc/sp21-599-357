@@ -15,7 +15,7 @@ The goal of this project is to classify protein families based on their sequence
 In the protein structure data set, each protein is classified according to its function. Categories include: HYDROLASE, OXYGEN TRANSPORT, VIRUS, SIGNALING PROTEIN, etc. dozens of kinds. In this project, we will use nucleic acid sequences to predict the type of protein.
 
 
-Related research includes BLAST, which is a protein search engine.
+Related research includes BLAST[^1], which is a protein search engine.
 
 **Keywords:** Protein Sequences, Deep learning
 
@@ -24,7 +24,7 @@ Related research includes BLAST, which is a protein search engine.
 The structure and function of a protein are determined by the amino acid sequence that composes it. The amino acid sequence can be regarded as a language composed of 4 different characters. In recent years, due to the development of deep learning, the ability of deep neural networks to process natural language has reached or even surpassed humans in some areas. In this project, we tried to treat the amino acid sequence as a language and use the existing deep learning model to analyze it to achieve the purpose of inferring its function.
 
 
-The data sets used in the project come from Research Collaboratory for Structural Bioinformatics (RCSB) and Protein Data Bank (PDB).
+The data sets used in the project come from Research Collaboratory for Structural Bioinformatics (RCSB) and Protein Data Bank (PDB)[^2].
 
 
 The data set contains approximately 400,000 amino acid sequences and has been labeled. The label is the family to which the protein belongs. The protein family includes HYDROLASE, HYDROLASE/HYDROLASE INHIBITOR, IMMUNE SYSTEM, LYASE, OXIDOREDUCTASE, etc. Therefore this problem can be regarded as a classification problem. The input of the model is a sequence, the length of the sequence is uncertain, and the output of the model is one of several categories.
@@ -48,7 +48,7 @@ Protein dataset classification: https://www.kaggle.com/rafay12/anti-freeze-prote
 RCSB PDB: https://www.rcsb.org/
 
 ## 3. Deep learning algorithm
-Possible candidate algorithms include LSTM, CNN, SVM, etc. In actual problems, it may be necessary to combine multiple algorithms to achieve higher accuracy.
+Possible candidate algorithms include LSTM[^3], CNN, SVM, etc. In actual problems, it may be necessary to combine multiple algorithms to achieve higher accuracy.
 
 
   
