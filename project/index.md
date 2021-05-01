@@ -58,6 +58,19 @@ RCSB PDB: https://www.rcsb.org/
 ## 3. Deep learning algorithm
 Possible candidate algorithms include LSTM[^3], CNN, SVM, etc. In actual problems, it may be necessary to combine multiple algorithms to achieve higher accuracy.
 ### 3.1 Word Embedding
+A word embedding is a class of approaches for representing words and documents using a dense vector representation.
+
+Iin an embedding, words are represented by dense vectors where a vector represents the projection of the word into a continuous vector space.
+
+The position of a word within the vector space is learned from text and is based on the words that surround the word when it is used.
+
+The position of a word in the learned vector space is referred to as its embedding.
+
+Two popular examples of methods of learning word embeddings from text include:
+
+- Word2Vec.
+- GloVe.
+
 ### 3.2 CNN
   
 
