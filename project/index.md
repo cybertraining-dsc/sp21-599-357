@@ -88,6 +88,8 @@ Two popular examples of methods of learning word embeddings from text include:
 |#parameters  | 273,082     |203,226      |
 | Accuracy    | 91.6%       |90.1%        |
 |Training time|7ms/step     |58ms/step    |
+|Loss         |0.4051       |0.3465       |
+
 
  
 ## 5. Conclusion
