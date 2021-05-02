@@ -54,14 +54,18 @@ Protein dataset classification: <https://www.kaggle.com/rafay12/anti-freeze-prot
 
 RCSB PDB: <https://www.rcsb.org/>
 
-![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/sp21-599-357/main/project/images/fig1.png)
+![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/sp21-599-357/main/project/images/fig4.png)
 
-**Figure 1:** The frequency of appearance of different labels.
+**Figure 1:** Data set sample.
+
+![Figure 2](https://raw.githubusercontent.com/cybertraining-dsc/sp21-599-357/main/project/images/fig1.png)
+
+**Figure 2:** The frequency of appearance of different labels.
 
 
-![Figure 2](https://raw.githubusercontent.com/cybertraining-dsc/sp21-599-357/main/project/images/fig2.png)
+![Figure 3](https://raw.githubusercontent.com/cybertraining-dsc/sp21-599-357/main/project/images/fig2.png)
 
-**Figure 2:** The length distribution of amino acid sequences.
+**Figure 3:** The length distribution of amino acid sequences.
 
 ## 3. Deep learning algorithm
 
