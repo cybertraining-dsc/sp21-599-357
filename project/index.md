@@ -89,6 +89,10 @@ Two popular examples of methods of learning word embeddings from text include:
 
 ### 3.2 LSTM
 
+Recurrent Neural Network (RNN) is a neural network used to process sequence data. Compared with the general neural network, it can process the data of sequence changes. For example, the meaning of a word will have different meanings because of the different content mentioned above, and RNN can solve this kind of problem well.
+
+Long short-term memory (LSTM) is a special kind of RNN, mainly to solve the problem of gradient disappearance and gradient explosion during long sequence training. Compared to ordinary RNN, LSTM can perform better in longer sequences.
+
 ![Figure 3](https://raw.githubusercontent.com/cybertraining-dsc/sp21-599-357/main/project/images/fig3.png)
 
 **Figure 3:** LSTM.
