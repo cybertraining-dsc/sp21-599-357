@@ -112,7 +112,7 @@ In this project, [^8] will be used as a test benchmark.
 | Accuracy    | 91.6%       |**91.9%**    
 |Training time|7ms/step     |58ms/step    
 |Batch size   |128          |256          
-|Loss function<td colspan=1>categorical cross entropy
+|Loss function<td colspan=0>categorical cross entropy
 |Loss         |0.4051       |**0.3292**   
 
 
