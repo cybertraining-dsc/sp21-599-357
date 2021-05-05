@@ -83,10 +83,7 @@ The position of a word within the vector space is learned from text and is based
 
 The position of a word in the learned vector space is referred to as its embedding.
 
-Two popular examples of methods of learning word embeddings from text include:
-
-- Word2Vec.
-- GloVe.
+Two popular examples of methods of learning word embeddings from text include: Word2Vec[^9] and GloVe[^10].
 
 
 ### 3.2 LSTM
@@ -142,3 +139,7 @@ The author would like to thank Dr. Gregor von Laszewski for his invaluable feedb
 [^7]: AlQuraishi, Mohammed. "AlphaFold at CASP13." Bioinformatics 35.22 (2019): 4862-4865.
 
 [^8]: Kaggle, Protein Sequence Classification. <https://www.kaggle.com/helmehelmuto/cnn-keras-and-innvestigate>
+
+[^9]: Church, Kenneth Ward. "Word2Vec." Natural Language Engineering 23.1 (2017): 155-162.
+
+[^10]: Pennington, Jeffrey, Richard Socher, and Christopher D. Manning. "Glove: Global vectors for word representation." Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP). 2014.
