@@ -85,6 +85,10 @@ The position of a word in the learned vector space is referred to as its embeddi
 
 Two popular examples of methods of learning word embeddings from text include: Word2Vec[^9] and GloVe[^10].
 
+![Figure 4](https://raw.githubusercontent.com/cybertraining-dsc/sp21-599-357/main/project/images/embed.png)
+
+**Figure 4:** Word2Vec and GloVe.
+
 
 ### 3.2 LSTM
 
@@ -92,9 +96,9 @@ Recurrent Neural Network (RNN) is a neural network used to process sequence data
 
 Long short-term memory (LSTM) is a special kind of RNN, mainly to solve the problem of gradient disappearance and gradient explosion during long sequence training. Compared to ordinary RNN, LSTM can perform better in longer sequences.
 
-![Figure 3](https://raw.githubusercontent.com/cybertraining-dsc/sp21-599-357/main/project/images/fig3.png)
+![Figure 5](https://raw.githubusercontent.com/cybertraining-dsc/sp21-599-357/main/project/images/fig3.png)
 
-**Figure 3:** LSTM.
+**Figure 5:** LSTM.
 
 ## 4. Benchmark
 
