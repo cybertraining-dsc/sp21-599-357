@@ -111,7 +111,7 @@ In this project, [^8] will be used as a test benchmark.
 |#parameters  | 273,082     |**203,226**  |
 | Accuracy    | 91.6%       |**91.9%**    |
 |Training time|7ms/step     |58ms/step    |
-|Batch size   |128          |             |
+|Batch size   |128          |256          |
 |Loss         |0.4051       |**0.3292**   |
 
 
