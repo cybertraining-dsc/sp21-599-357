@@ -104,10 +104,11 @@ In this project, [^8] will be used as a test benchmark.
 
 |Model        | CNN         | LSTM        |
 |-----------  | ----------- | ----------- |
-|#parameters  | 273,082     |203,226      |
-| Accuracy    | 91.6%       |91.9%        |
+|#parameters  | 273,082     |**203,226**  |
+| Accuracy    | 91.6%       |**91.9%**    |
 |Training time|7ms/step     |58ms/step    |
-|Loss         |0.4051       |0.3292       |
+|Batch size   |128          |             |
+|Loss         |0.4051       |**0.3292**   |
 
 
  
