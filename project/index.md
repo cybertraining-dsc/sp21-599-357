@@ -106,14 +106,14 @@ Long short-term memory (LSTM) is a special kind of RNN, mainly to solve the prob
 [^8] mainly uses convolutional layers to build neural network model. 
 In this project, [^8] will be used as a test benchmark.
 
-|Model        | CNN         | LSTM        |
-|-----------  | ----------- | ----------- |
-|#parameters  | 273,082     |**203,226**  |
-| Accuracy    | 91.6%       |**91.9%**    |
-|Training time|7ms/step     |58ms/step    |
-|Batch size   |128          |256          |
-|Loss function<td colspan=2>categorical cross entropy</td>
-|Loss         |0.4051       |**0.3292**   |
+|Model        | CNN         | LSTM        
+|-----------  | ----------- | ----------- 
+|#parameters  | 273,082     |**203,226**  
+| Accuracy    | 91.6%       |**91.9%**    
+|Training time|7ms/step     |58ms/step    
+|Batch size   |128          |256          
+|Loss function<td colspan=2>categorical cross entropy
+|Loss         |0.4051       |**0.3292**   
 
 
  
