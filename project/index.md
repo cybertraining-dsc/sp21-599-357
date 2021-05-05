@@ -69,7 +69,9 @@ RCSB PDB: <https://www.rcsb.org/>
 
 ## 3. Deep learning algorithm
 
-Possible candidate algorithms include LSTM[^3], CNN, SVM, etc. In actual problems, it may be necessary to combine multiple algorithms to achieve higher accuracy.
+Two deep learning models, CNN and LSTM[^3], are mainly used in this project. In addition, the Word Embedding algorithm is also used to preprocess the data.
+
+Among these models, the CNN model comes from the Kaggle website[^8] and will be used as a test benchmark. We will try to build a simpler but more accurate model with an accuracy rate of at least not lower than the test benchmark.
 
 ### 3.1 Word Embedding
 
