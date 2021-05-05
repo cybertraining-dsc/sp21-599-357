@@ -114,7 +114,9 @@ In this project, [^8] will be used as a test benchmark.
 |Batch size   |128          |256          
 |Loss         |0.4051       |**0.3292**   
 
+Both the CNN model and the LSTM model use the word embedding layer for data dimensionality reduction. After testing, the result is that LSTM uses fewer parameters to achieve the same or even slightly higher accuracy than the benchmark. However, due to the relatively complex structure of LSTM, its training speed and guessing speed are slower.
 
+In order to make a fair comparison with the test benchmark, we only selected the 10 most frequent samples as the data set, which is also the original author's choice. Therefore, the accuracy of more than 90% here is only of relative significance, and does not mean that the same accuracy can be achieved in practical applications (the data set usually has more categories).
  
 ## 5. Conclusion
 
