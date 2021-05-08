@@ -103,6 +103,7 @@ Long short-term memory (LSTM) is a special kind of RNN, mainly to solve the prob
 ## 4. Benchmark
 
 ### 4.1 Compare with test benchmark
+
 [^8] is a highly accurate model on the Kaggle website. It is currently one of the models with the highest accuracy on this data set.
 In this project, CNN model in [^8] will be used as a test benchmark. We use categorical cross entropy as loss function.
 
