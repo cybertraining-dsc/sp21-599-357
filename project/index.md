@@ -54,18 +54,6 @@ Protein dataset classification: <https://www.kaggle.com/rafay12/anti-freeze-prot
 
 RCSB PDB: <https://www.rcsb.org/>
 
-![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/sp21-599-357/main/project/images/fig4.png)
-
-**Figure 1:** Data set sample.
-
-![Figure 2](https://raw.githubusercontent.com/cybertraining-dsc/sp21-599-357/main/project/images/fig1.png)
-
-**Figure 2:** The frequency of appearance of different labels.
-
-
-![Figure 3](https://raw.githubusercontent.com/cybertraining-dsc/sp21-599-357/main/project/images/fig2.png)
-
-**Figure 3:** The length distribution of amino acid sequences.
 
 ## 3. Deep learning algorithm
 
@@ -85,9 +73,6 @@ The position of a word in the learned vector space is referred to as its embeddi
 
 Two popular examples of methods of learning word embeddings from text include: Word2Vec[^9] and GloVe[^10].
 
-![Figure 4](https://raw.githubusercontent.com/cybertraining-dsc/sp21-599-357/main/project/images/embed.png)
-
-**Figure 4:** Word2Vec and GloVe.
 
 
 ### 3.2 LSTM
@@ -96,9 +81,7 @@ Recurrent Neural Network (RNN) is a neural network used to process sequence data
 
 Long short-term memory (LSTM) is a special kind of RNN, mainly to solve the problem of gradient disappearance and gradient explosion during long sequence training. Compared to ordinary RNN, LSTM can perform better in longer sequences.
 
-![Figure 5](https://raw.githubusercontent.com/cybertraining-dsc/sp21-599-357/main/project/images/fig3.png)
 
-**Figure 5:** LSTM.
 
 ## 4. Benchmark
 
@@ -123,9 +106,7 @@ In order to make a fair comparison with the test benchmark, we only selected the
 
 In order to further test the performance of LSTM on different data sets, we further increased the number of labels, gradually increasing from 10 labels to 20 labels. The figure below shows the effect of the number of labels on accuracy.
 
-![Figure 6](https://raw.githubusercontent.com/cybertraining-dsc/sp21-599-357/main/project/images/AccuracyandLoss.png)
 
-**Figure 6:** The impact of the number of labels on accuracy.
 
 Note that due to the limitation of the data set, the number of samples belonging to different labels is different. If we want to balance different categories, we have to shrink the data set, which will affect the accuracy. This is one of the limitations of this test.
 
