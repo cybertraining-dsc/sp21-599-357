@@ -6,6 +6,10 @@ Status: final, Type: Project
 
 Jiayu Li, [sp21-599-357](https://github.com/cybertraining-dsc/sp21-599-357/), [Edit](https://github.com/cybertraining-dsc/sp21-599-357/blob/main/project/index.md)
 
+* Code:
+  * [benchmark.py](https://github.com/cybertraining-dsc/sp21-599-357/blob/main/project/code/benchmark.py)
+  * [lstm.ipynb](https://github.com/cybertraining-dsc/sp21-599-357/blob/main/project/code/lstm.ipynb)
+
 {{% pageinfo %}}
 
 ## Abstract
