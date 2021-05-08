@@ -102,9 +102,9 @@ Long short-term memory (LSTM) is a special kind of RNN, mainly to solve the prob
 
 ## 4. Benchmark
 
+### 4.1 Compare with test benchmark
 [^8] is a highly accurate model on the Kaggle website. It is currently one of the models with the highest accuracy on this data set.
-[^8] mainly uses convolutional layers to build neural network model. 
-In this project, [^8] will be used as a test benchmark.
+In this project, CNN model in [^8] will be used as a test benchmark. We use categorical cross entropy as loss function.
 
 |Model        | CNN         | LSTM        |
 |-----------  | ----------- | ----------- |
@@ -117,6 +117,16 @@ In this project, [^8] will be used as a test benchmark.
 Both the CNN model and the LSTM model use the word embedding layer for data dimensionality reduction. After testing, the result is that LSTM uses fewer parameters to achieve the same or even slightly higher accuracy than the benchmark. However, due to the relatively complex structure of LSTM, its training speed and guessing speed are slower.
 
 In order to make a fair comparison with the test benchmark, we only selected the 10 most frequent samples as the data set, which is also the original author's choice. Therefore, the accuracy of more than 90% here is only of relative significance, and does not mean that the same accuracy can be achieved in practical applications (the data set usually has more categories).
+
+### 4.2 The impact of the number of labels on accuracy
+
+In order to further test the performance of LSTM on different data sets, we further increased the number of labels, gradually increasing from 10 labels to 20 labels. The figure below shows the effect of the number of labels on accuracy.
+
+![Figure 6](https://raw.githubusercontent.com/cybertraining-dsc/sp21-599-357/main/project/images/AccuracyandLoss.png)
+**Figure 6:** The impact of the number of labels on accuracy.
+
+Note that due to the limitation of the data set, the number of samples belonging to different labels is different. If we want to balance different categories, we have to shrink the data set, which will affect the accuracy. This is one of the limitations of this test.
+
  
 ## 5. Conclusion
 
