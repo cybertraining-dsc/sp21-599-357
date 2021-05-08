@@ -123,6 +123,10 @@ In order to make a fair comparison with the test benchmark, we only selected the
 
 In order to further test the performance of LSTM on different data sets, we further increased the number of labels, gradually increasing from 10 labels to 20 labels. The figure below shows the effect of the number of labels on accuracy.
 
+![Figure 6](https://raw.githubusercontent.com/cybertraining-dsc/sp21-599-357/main/project/images/AccuracyandLoss.png)
+
+**Figure 6:** The impact of the number of labels on accuracy.
+
 Note that due to the limitation of the data set, the number of samples belonging to different labels is different. If we want to balance different categories, we have to shrink the data set, which will affect the accuracy. This is one of the limitations of this test.
 
  
