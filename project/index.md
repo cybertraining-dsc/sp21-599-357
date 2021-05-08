@@ -131,7 +131,7 @@ Note that due to the limitation of the data set, the number of samples belonging
  
 ## 5. Conclusion
 
-The deep learning model gives a prediction accuracy of more than 90% for the 10 most common protein types. If the number of label is increased to 40, the accuracy rate will drop to 80%.
+The deep learning model gives a prediction accuracy of more than 90% for the 10 most common protein types. If the number of label is increased to 20, the accuracy rate will drop to 80%.
 The traditional machine learning model is difficult to deal with string data of different lengths.
 
 ## 6. Acknowledgments
