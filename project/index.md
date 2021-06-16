@@ -1,8 +1,8 @@
 ---
 date: 2021-03-15
 title: Project: Structural Protein Sequences Classification
-linkTitle: 
-tags: ["project", "ai", ""]
+linkTitle: Protein Sequencing
+tags: ["project", "ai", "biology"]
 description: The goal of this project is to predict the family of a protein based on the amino acid sequence of the protein. 
 author: Jiayu Li
 resources:
@@ -10,7 +10,6 @@ resources:
   title: "Image #:counter"
 ---
 
-# 
 
 [![Check Report](https://github.com/cybertraining-dsc/sp21-599-357/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/sp21-599-357/actions)
 [![Status](https://github.com/cybertraining-dsc/sp21-599-357/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/sp21-599-357/actions)
