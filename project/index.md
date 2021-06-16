@@ -1,6 +1,6 @@
 ---
 date: 2021-03-15
-title: Project: Structural Protein Sequences Classification
+title: "Project: Structural Protein Sequences Classification"
 linkTitle: Protein Sequencing
 tags: ["project", "ai", "biology"]
 description: The goal of this project is to predict the family of a protein based on the amino acid sequence of the protein. 
