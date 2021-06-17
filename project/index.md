@@ -7,6 +7,7 @@ description: "The goal of this project is to predict the family of a protein bas
 The structure and function of a protein are determined by the amino acid sequence that composes it.
 In the protein structure data set, each protein is classified according to its function. Categories include: HYDROLASE, OXYGEN TRANSPORT, VIRUS, SIGNALING PROTEIN, etc. dozens of kinds. In this project, we will use nucleic acid sequences to predict the type of protein. Although there are already protein search engines such as BLAST that can directly query the known protein families. But for unknown proteins, it is still important to use deep learning algorithms to predict their functions. Protein classification is a simpler problem than protein structure prediction. The latter requires the complete spatial structure of the protein, and the required deep learning model is extremely complex." 
 author: Jiayu Li
+github_url: https://github.com/cybertraining-dsc/sp21-599-357/edit/main/project/index.md
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
